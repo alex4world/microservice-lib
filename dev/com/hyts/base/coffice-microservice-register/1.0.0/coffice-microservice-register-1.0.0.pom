@@ -1,0 +1,11 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.hyts.base</groupId>
+    <artifactId>coffice-microservice</artifactId>
+    <version>${microservice.version}</version>
+  </parent>
+  <artifactId>coffice-microservice-register</artifactId>
+  <name>coffice-microservice-eurake</name>
+  <description>base on eurake server config</description>
+</project>
